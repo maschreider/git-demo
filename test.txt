@@ -1,4 +1,3 @@
 some text
 another text
 third text
-fourth text
